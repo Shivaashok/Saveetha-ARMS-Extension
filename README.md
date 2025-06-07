@@ -62,7 +62,7 @@ Make sure you have all these files in one folder (e.g., `Saveetha ARMS Rectifier
 ## ✅ How to Use
 
 ### Faculty Slot Monitor
-1. Go to: `Enrollment.aspx`
+1. Go to: `Enrollment`
 2. Select a slot and enter faculty name
 3. Click **Start Monitoring**
    - It highlights all matches
@@ -70,13 +70,13 @@ Make sure you have all these files in one folder (e.g., `Saveetha ARMS Rectifier
    - Persists your slot/faculty selection even after reloads
 
 ### Leave Tracker
-- Go to: `AttendanceReport.aspx`
+- Go to: `Attendance > AttendanceReport`
 - Automatically adds:
   - “Leave Taken”
   - “Max Leave Allowed”
 
 ### CGPA Calculator
-- Go to: any page showing your grades (e.g., results tab)
+- Go to: `My Course` 
 - CGPA appears in a colored box
 - Click **Recalculate** if needed
 
