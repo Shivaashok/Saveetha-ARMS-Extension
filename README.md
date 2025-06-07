@@ -34,14 +34,12 @@ Follow these steps to install the extension in Google Chrome/Chromium based Brow
 ### 1. Extract the Folder
 Make sure you have all these files in one folder (e.g., `Saveetha ARMS Rectifier`):
 
-(```)
-saveetha-extension/
-├── manifest.json
-├── enrollment.js
-├── leave.js
-├── cgpa.js
-└── icon.png
-(```)
+- `manifest.json`
+- `enrollment.js`
+- `leave.js`
+- `cgpa.js`
+- `icon.png`
+
 > 🔔 If it's in a ZIP, extract it first.
 
 ---
@@ -86,10 +84,7 @@ saveetha-extension/
 
 ## ℹ️ Notes
 
-- Works only on the Saveetha Student Portal pages:
-  - `Enrollment.aspx`
-  - `AttendanceReport.aspx`
-  - Other grade-related pages
+- Works only on the Saveetha Student Portal.
 
 - You must allow the extension to run by enabling it in Chrome.
 
