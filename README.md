@@ -57,6 +57,8 @@ Make sure you have all these files in one folder (e.g., `Saveetha ARMS Rectifier
 ✅ You will now see:
 > **"Saveetha ARMS Rectifier"**
 
+📺 [Watch on YouTube](https://youtu.be/3uPfb6shzh0)
+
 ---
 
 ## ✅ How to Use
@@ -89,7 +91,4 @@ Make sure you have all these files in one folder (e.g., `Saveetha ARMS Rectifier
 - You must allow the extension to run by enabling it in Chrome.
 
 ---
-
-
-
 
