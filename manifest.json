@@ -1,0 +1,27 @@
+
+{
+  "manifest_version": 3,
+  "name": "Saveetha ARMS Rectifier",
+  "version": "1.0",
+  "description": "Combines faculty monitor, leave tracker, and CGPA calculator for Saveetha student portal.",
+  "permissions": ["activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["https://arms.sse.saveetha.com/StudentPortal/Enrollment.aspx"],
+      "js": ["enrollment.js"]
+    },
+    {
+      "matches": ["https://arms.sse.saveetha.com/StudentPortal/AttendanceReport.aspx"],
+      "js": ["leave.js"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": ["https://arms.sse.saveetha.com/StudentPortal/*"],
+      "js": ["cgpa.js"]
+    }
+  ],
+  "icons": {
+    "48": "icon.png"
+  }
+}
+
