@@ -34,14 +34,14 @@ Follow these steps to install the extension in Google Chrome/Chromium based Brow
 ### 1. Extract the Folder
 Make sure you have all these files in one folder (e.g., `Saveetha ARMS Rectifier`):
 
-
+(```)
 saveetha-extension/
 ├── manifest.json
 ├── enrollment.js
 ├── leave.js
 ├── cgpa.js
 └── icon.png
-
+(```)
 > 🔔 If it's in a ZIP, extract it first.
 
 ---
