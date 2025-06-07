@@ -19,11 +19,11 @@ A single Chrome extension that enhances the **Saveetha University Student Portal
 
 ## 📦 Features
 
-| Feature              | Page                                                                 | Functionality                                                                 |
-|----------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| Faculty Slot Monitor | [`Enrollment.aspx`](https://arms.sse.saveetha.com/StudentPortal/Enrollment.aspx) | Monitors a selected faculty in a given slot and auto-refreshes every cycle.   |
-| Leave Tracker        | [`AttendanceReport.aspx`](https://arms.sse.saveetha.com/StudentPortal/AttendanceReport.aspx) | Shows leaves taken and max allowable leaves for each course.                  |
-| CGPA Calculator      | [`*`](https://arms.sse.saveetha.com/StudentPortal/*) | Displays CGPA based on passed grades and updates dynamically.                 |
+| Feature              | Functionality                                                                 |
+|----------------------|--------------------------------------------------------------------------------|
+| Faculty Slot Monitor | Monitors a selected faculty in a given slot and auto-refreshes every cycle.   |
+| Leave Tracker        | Shows leaves taken and max allowable leaves for each course.                  |
+| CGPA Calculator      | Displays CGPA based on passed grades and updates dynamically.                 |
 
 ---
 
@@ -33,6 +33,7 @@ Follow these steps to install the extension in Google Chrome/Chromium based Brow
 
 ### 1. Extract the Folder
 Make sure you have all these files in one folder (e.g., `Saveetha ARMS Rectifier`):
+
 
 saveetha-extension/
 ├── manifest.json
