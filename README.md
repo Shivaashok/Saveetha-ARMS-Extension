@@ -1,8 +1,13 @@
-![Image](https://github.com/user-attachments/assets/75633a47-9d81-4d28-9690-eaba8c21a826)
-![Image](https://github.com/user-attachments/assets/e0c737f6-cb32-4180-8383-c1a0d09c3ad0)
-![Image](https://github.com/user-attachments/assets/eeab1233-e1db-4d37-b8ce-548a7d54326e)
+# 🎓 Saveetha ARMS Rectifier
 
-# 🎓 Saveetha ARMS
+### 📅 Leave Tracker in Attendance Report
+![Image](https://github.com/user-attachments/assets/75633a47-9d81-4d28-9690-eaba8c21a826)
+
+### 📊 CGPA Calculator
+![Image](https://github.com/user-attachments/assets/e0c737f6-cb32-4180-8383-c1a0d09c3ad0)
+
+### 🔍 Faculty Slot Monitor
+![Image](https://github.com/user-attachments/assets/eeab1233-e1db-4d37-b8ce-548a7d54326e)
 
 A single Chrome extension that enhances the **Saveetha University Student Portal**:
 
