@@ -54,8 +54,15 @@ Make sure you have all these files in one folder (e.g., `Saveetha ARMS Rectifier
 - Click **Load Unpacked**
 - Select the extracted folder (e.g., `Saveetha ARMS Rectifier`)
 
-✅ You will now see:
-> **"Saveetha ARMS Rectifier"**
+---
+
+### 4. Open Saveetha Portal
+- Visit [https://arms.sse.saveetha.com/](https://arms.sse.saveetha.com/)
+- Navigate to:
+  - `Attendance` → `Attendance Report`
+  - `My Courses`
+  - `Enrollment`
+- You can now use the features like **Leave Tracker**, **CGPA Calculator**, and **Faculty Slot Monitor** directly on those pages.
 
 📺 [Watch on YouTube](https://youtu.be/3uPfb6shzh0)
 
