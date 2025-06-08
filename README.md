@@ -58,7 +58,7 @@ Follow these steps to install the extension in Google Chrome/Chromium based Brow
   - `Enrollment`
 - You can now use the features like **Leave Tracker**, **CGPA Calculator**, and **Faculty Slot Monitor** directly on those pages.
 
-📺 [Watch on YouTube](https://youtu.be/EEXLBrTotKo)
+📺 [Watch on YouTube](https://youtu.be/YhgTK-3Dw4M)
 
 ---
 
