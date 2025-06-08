@@ -32,7 +32,7 @@ A single Chrome extension that enhances the **Saveetha University Student Portal
 Follow these steps to install the extension in Google Chrome/Chromium based Browser:
 
 ### 1. Download and Unzip
-- Go to the **[Releases](https://github.com/your-repo/releases)** section on GitHub.
+- Go to the **[Releases](https://github.com/Shivaashok/Saveetha-ARMS-Extension/releases)** section on GitHub.
 - Download the `Source code (.zip)` file.
 - Extract/unzip the folder on your computer.
 
