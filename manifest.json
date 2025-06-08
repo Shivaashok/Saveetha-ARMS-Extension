@@ -1,7 +1,7 @@
 
 {
   "manifest_version": 3,
-  "name": "Saveetha ARMS Rectifier",
+  "name": "Saveetha ARMS Extension",
   "version": "1.0",
   "description": "Combines faculty monitor, leave tracker, and CGPA calculator for Saveetha student portal.",
   "permissions": ["activeTab", "scripting"],
