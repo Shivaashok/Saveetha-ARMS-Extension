@@ -1,4 +1,4 @@
-# 🎓 Saveetha ARMS Rectifier
+# 🎓 Saveetha ARMS Extension
 
 ### 📅 Leave Tracker in Attendance Report
 ![Image](https://github.com/user-attachments/assets/75633a47-9d81-4d28-9690-eaba8c21a826)
@@ -31,16 +31,10 @@ A single Chrome extension that enhances the **Saveetha University Student Portal
 
 Follow these steps to install the extension in Google Chrome/Chromium based Browser:
 
-### 1. Extract the Folder
-Make sure you have all these files in one folder (e.g., `Saveetha ARMS Rectifier`):
-
-- `manifest.json`
-- `enrollment.js`
-- `leave.js`
-- `cgpa.js`
-- `icon.png`
-
-> 🔔 If it's in a ZIP, extract it first.
+### 1. Download and Unzip
+- Go to the **[Releases](https://github.com/your-repo/releases)** section on GitHub.
+- Download the `Source code (.zip)` file.
+- Extract/unzip the folder on your computer.
 
 ---
 
@@ -52,7 +46,7 @@ Make sure you have all these files in one folder (e.g., `Saveetha ARMS Rectifier
 
 ### 3. Load the Extension
 - Click **Load Unpacked**
-- Select the extracted folder (e.g., `Saveetha ARMS Rectifier`)
+- Select the extracted folder (e.g., `Saveetha ARMS Extension`)
 
 ---
 
@@ -94,8 +88,4 @@ Make sure you have all these files in one folder (e.g., `Saveetha ARMS Rectifier
 ## ℹ️ Notes
 
 - Works only on the Saveetha Student Portal.
-
 - You must allow the extension to run by enabling it in Chrome.
-
----
-
